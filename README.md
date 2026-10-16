@@ -16,7 +16,7 @@ A Java desktop application built with a Graphical User Interface (GUI) to manage
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/NotJarvis09/Student-Grade-Tracker-GUI.git)
+   git clone https://github.com/NotJarvis09/Student-Grade-Tracker-GUI.git
    ```
 2. Navigate to the project directory.
 3. Compile the Java source file:
